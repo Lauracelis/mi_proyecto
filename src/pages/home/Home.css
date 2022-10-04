@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2family=Gilda+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+.body{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(255, 245, 255);
+}
+h1, h2{
+    font-family: 'Manrope', sans-serif;
+
+}
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: rigth;
+    
+}
+img{
+    width: 150px;
+}

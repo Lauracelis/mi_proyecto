@@ -1,0 +1,19 @@
+nav{
+    background-color: rgb(5, 26, 73);
+    
+    
+}
+ul li{
+    list-style: none; 
+}
+a:Link{
+    text-decoration: none;
+    
+}
+.menu{
+    color: blueviolet;
+    font-size: 25px;
+}
+.menu:hover{
+    color: aliceblue;
+}
