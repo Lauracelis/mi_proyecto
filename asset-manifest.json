@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Lauracelis/mi_proyecto.git/static/css/main.17c2ad69.css",
-    "main.js": "/Lauracelis/mi_proyecto.git/static/js/main.d0c840a6.js",
-    "static/media/perfil.jpg": "/Lauracelis/mi_proyecto.git/static/media/perfil.e8836b83bda48bbc6083.jpg",
-    "index.html": "/Lauracelis/mi_proyecto.git/index.html",
-    "main.17c2ad69.css.map": "/Lauracelis/mi_proyecto.git/static/css/main.17c2ad69.css.map",
-    "main.d0c840a6.js.map": "/Lauracelis/mi_proyecto.git/static/js/main.d0c840a6.js.map"
+    "main.css": "/mi_proyecto.git/static/css/main.17c2ad69.css",
+    "main.js": "/mi_proyecto.git/static/js/main.0cecf2a4.js",
+    "static/media/perfil.jpg": "/mi_proyecto.git/static/media/perfil.e8836b83bda48bbc6083.jpg",
+    "index.html": "/mi_proyecto.git/index.html",
+    "main.17c2ad69.css.map": "/mi_proyecto.git/static/css/main.17c2ad69.css.map",
+    "main.0cecf2a4.js.map": "/mi_proyecto.git/static/js/main.0cecf2a4.js.map"
   },
   "entrypoints": [
     "static/css/main.17c2ad69.css",
-    "static/js/main.d0c840a6.js"
+    "static/js/main.0cecf2a4.js"
   ]
 }
