@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mi_proyecto.git/static/css/main.17c2ad69.css",
+    "main.js": "/mi_proyecto.git/static/js/main.3ec04b44.js",
+    "static/media/perfil.jpg": "/mi_proyecto.git/static/media/perfil.e8836b83bda48bbc6083.jpg",
+    "index.html": "/mi_proyecto.git/index.html",
+    "main.17c2ad69.css.map": "/mi_proyecto.git/static/css/main.17c2ad69.css.map",
+    "main.3ec04b44.js.map": "/mi_proyecto.git/static/js/main.3ec04b44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17c2ad69.css",
+    "static/js/main.3ec04b44.js"
+  ]
+}
