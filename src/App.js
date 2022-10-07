@@ -9,14 +9,12 @@ import Menu from './components/menu/Menu'
 function App() {
   return (
     <>
-   <HashRouter>
    <Menu />
    <Routes>
     <Route path='/' element={<Home />} />
     <Route path='/contact' element={<Contact />} />
     <Route path='*' element={<p>Not found</p>} />
    </Routes>
-   </HashRouter>
    
     </>
     
